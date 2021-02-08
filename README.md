@@ -25,7 +25,7 @@ $ npm install -g json-server
 $ npm install
 ```
 
-### 3. Start the project
+### Start the project
 
 Open a terminal or command prompt inside the project folder.
 
