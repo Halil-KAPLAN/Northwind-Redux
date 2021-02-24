@@ -5,6 +5,8 @@
 
 My first project with React. A simple store management system. Redux and Reactstrap were also used with React.
 
+![alt text](public/northwind-redux-SS.JPG?raw=true)
+
 
 ## Installation
 
@@ -25,7 +27,7 @@ $ npm install -g json-server
 $ npm install
 ```
 
-### Start the project
+### 3. Start the project
 
 Open a terminal or command prompt inside the project folder.
 
